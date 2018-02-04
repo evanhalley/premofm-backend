@@ -1,0 +1,32 @@
+{
+    "name": "premo-web-services",
+    "description": "Premo Web Services",
+    "author": "Evan Halley <hello@mainmethod.co>",
+    "main": "boot.js",
+    "version": "2.9.0",
+    "private": true,
+    "dependencies": {
+        "express"               : "4.13.0",
+        "compression"           : "1.2.0",
+        "body-parser"           : "1.9.1",
+        "response-time"         : "2.2.0",
+        "mongodb"               : "2.0.34",
+        "winston"               : "1.0.0",
+        "forever"               : "0.11.1",
+        "passport"              : "0.2.2",
+        "passport-http"         : "0.2.2",
+        "bcrypt"                : "0.8.5",
+        "express-brute"         : "0.5.1",
+        "express-brute-redis"   : "0.0.1",
+        "underscore"            : "1.7.0",
+        "should"                : "4.1.0",
+        "hashids"               : "1.0.1",
+        "prettified"            : "0.0.7",
+        "node-rsa"              : "0.1.53",
+        "moment"                : "2.9.0",
+        "hat"                   : "0.0.3",
+        "async"                 : "1.4.2",
+        "tiny-bst"              : "1.2.1",
+        "redis"                 : "2.0.1"
+    }
+}
